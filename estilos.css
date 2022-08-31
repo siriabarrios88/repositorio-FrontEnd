@@ -1,0 +1,84 @@
+#contenedor{
+	width: 960px;
+	height: 1700px;
+	background-color:  rgb(210, 206, 206);
+	margin-left: auto;
+	margin-right:  auto;
+}
+
+#cabecera{
+	width:  960px;
+	height: 100px;
+	background-color: rgb(170, 239, 219);
+}
+
+#informacion{
+	width:  960px;
+	height: 500px;
+	background-color: rgb(237, 237, 244);
+}
+
+	.c_info{
+	width:  910px;
+	height: 300px;
+	float:  left;
+	margin-top: 25px;
+	margin-left: 25px;
+	background-color: rgb(248, 173, 210);
+	}
+
+	.c_info2{
+		width:  150px;
+		height: 150px;
+		float:  left;
+		margin-top: -75px;
+		margin-left: 25px;
+		background-color: rgb(204, 240, 209);
+		}
+
+#acerca{
+	width:  960px;
+	height: 100px;
+	background-color: rgb(212, 240, 245) ;
+}
+
+	.c_acerca{
+	width:  910px;
+	height: 50px;
+	float:  left;
+	margin-top: 25px;
+	margin-left: 25px;
+	background-color: rgb(245, 238, 238);
+	}
+
+#experiencia{
+	width: 960px;
+	height: 500px;
+	background-color: rgb(223, 186, 244);
+	float: left;
+}
+	.c_exp{
+	width:  910px;
+	height: 450px;
+	float:  left;
+	margin-top: 25px;
+	margin-left: 25px;
+	background-color: rgb(237, 242, 245); 
+	
+	}
+
+#educacion{
+	width: 960px;
+	height: 500px;
+	background-color: lightsalmon;
+	float: left;
+
+}
+	.c_edu{
+	width:  910px;
+	height: 450px;
+	float:  left;
+	margin-top: 25px;
+	margin-left: 25px;
+	background-color: beige;
+	}
